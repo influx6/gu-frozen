@@ -1,4 +1,4 @@
-# GuFrozen is meant to house the last stable version of the Gu code at this specific state, I have moved the origianl Gu repo into the [Gu-io](https://github.com/gu-io) organization and things may change, even more rabipdly than expected. To still allow the simplicity of the core, this repo exists for those who wish to use Gu at this state being feature complete in the goals it original was set for.
+# GuFrozen is meant to house the last stable version of the Gu code at this specific state, I have moved the origianl Gu repo into the [Gu-io](https://github.com/gu-io) organization and things may change, even more rapidly than expected. To still allow the simplicity of the core, this repo exists for those who wish to use Gu at this state being feature complete in the goals it original was set for.
 
 # Gu
   A component rendering library for go able to render standard HTML both on 
